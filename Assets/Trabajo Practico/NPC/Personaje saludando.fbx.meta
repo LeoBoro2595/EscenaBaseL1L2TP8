@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: dcd80721f103d8b4a972820a5c391e07
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.003
+    100002: Hueso Brazo Derecho
+    100004: Hueso Brazo Izquierdo
+    100006: Hueso Cabeza
+    100008: Hueso Cabeza_end
+    100010: Hueso Cintura
+    100012: Hueso Codo Derecho
+    100014: Hueso Codo Izquierdo
+    100016: Hueso Cuello
+    100018: Hueso Dedo 1 Derecha
+    100020: Hueso Dedo 1 Derecha_end
+    100022: Hueso Dedo 1 Izquierdo
+    100024: Hueso Dedo 1 Izquierdo_end
+    100026: Hueso Dedo 2 Derecha
+    100028: Hueso Dedo 2 Derecha_end
+    100030: Hueso Dedo 2 Izquierdo
+    100032: Hueso Dedo 2 Izquierdo_end
+    100034: Hueso Dedo 3 Derecha
+    100036: Hueso Dedo 3 Derecha_end
+    100038: Hueso Dedo 3 Izquierdo
+    100040: Hueso Dedo 3 Izquierdo_end
+    100042: Hueso Dedo 4 Derecha
+    100044: Hueso Dedo 4 Derecha_end
+    100046: Hueso Dedo 4 Izquierdo
+    100048: Hueso Dedo 4 Izquierdo_end
+    100050: Hueso Dedo 5 Derecha
+    100052: Hueso Dedo 5 Derecha_end
+    100054: Hueso Dedo 5 Izquierdo
+    100056: Hueso Dedo 5 Izquierdo_end
+    100058: Hueso Espalda
+    100060: Hueso Espalda 2
+    100062: Hueso Mano Derecha
+    100064: Hueso Mano Izquierda
+    100066: Hueso Pierna Derecha
+    100068: Hueso Pierna Derecha_end
+    100070: Hueso Pierna Izquierda
+    100072: Hueso Pierna Izquierda_end
+    100074: Hueso Rodilla Derecha
+    100076: Hueso Rodilla Izquierda
+    100078: //RootNode
+    100080: Plane.001
+    400000: Armature.003
+    400002: Hueso Brazo Derecho
+    400004: Hueso Brazo Izquierdo
+    400006: Hueso Cabeza
+    400008: Hueso Cabeza_end
+    400010: Hueso Cintura
+    400012: Hueso Codo Derecho
+    400014: Hueso Codo Izquierdo
+    400016: Hueso Cuello
+    400018: Hueso Dedo 1 Derecha
+    400020: Hueso Dedo 1 Derecha_end
+    400022: Hueso Dedo 1 Izquierdo
+    400024: Hueso Dedo 1 Izquierdo_end
+    400026: Hueso Dedo 2 Derecha
+    400028: Hueso Dedo 2 Derecha_end
+    400030: Hueso Dedo 2 Izquierdo
+    400032: Hueso Dedo 2 Izquierdo_end
+    400034: Hueso Dedo 3 Derecha
+    400036: Hueso Dedo 3 Derecha_end
+    400038: Hueso Dedo 3 Izquierdo
+    400040: Hueso Dedo 3 Izquierdo_end
+    400042: Hueso Dedo 4 Derecha
+    400044: Hueso Dedo 4 Derecha_end
+    400046: Hueso Dedo 4 Izquierdo
+    400048: Hueso Dedo 4 Izquierdo_end
+    400050: Hueso Dedo 5 Derecha
+    400052: Hueso Dedo 5 Derecha_end
+    400054: Hueso Dedo 5 Izquierdo
+    400056: Hueso Dedo 5 Izquierdo_end
+    400058: Hueso Espalda
+    400060: Hueso Espalda 2
+    400062: Hueso Mano Derecha
+    400064: Hueso Mano Izquierda
+    400066: Hueso Pierna Derecha
+    400068: Hueso Pierna Derecha_end
+    400070: Hueso Pierna Izquierda
+    400072: Hueso Pierna Izquierda_end
+    400074: Hueso Rodilla Derecha
+    400076: Hueso Rodilla Izquierda
+    400078: //RootNode
+    400080: Plane.001
+    2100000: Material.015
+    2100002: Material.016
+    2100004: Material.017
+    4300000: Plane.001
+    7400000: Armature.003|Armature.003Action
+    7400002: Armature.003|ArmatureAction
+    7400004: Armature.003|ArmatureAction.001
+    7400006: Armature.003|ArmatureAction.002
+    9500000: //RootNode
+    13700000: Plane.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paleta light
+    second: {fileID: 2800000, guid: b02d0f07b1b98a64890328a945983849, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lava-texture
+    second: {fileID: 2800000, guid: ed3c9cf2456eb2e47b01b5380b558787, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
