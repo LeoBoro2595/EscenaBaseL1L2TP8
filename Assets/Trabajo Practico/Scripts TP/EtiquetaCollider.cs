@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class EtiquetaCollider : MonoBehaviour
 {
     int etiquetasPegadas = 0;
@@ -25,6 +26,6 @@ public class EtiquetaCollider : MonoBehaviour
         {
             etiquetasPegadas = etiquetasPegadas + 1;
         }
-        //Debug.Log("La cantidad de etiquetas pegadas es de " + etiquetasPegadas);
+        Debug.Log("La cantidad de etiquetas pegadas es de " + etiquetasPegadas);
     }
 }

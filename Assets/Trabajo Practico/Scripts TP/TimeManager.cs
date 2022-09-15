@@ -7,16 +7,15 @@ using TMPro;
 public class TimeManager : MonoBehaviour
 {
     public Text txt_Timetime;
-    public TextMeshProUGUI EstadoDeJuego;
+    public Text EstadoDeJuego;
     public GameObject EstadoJugador;
     float time;
-    float timeMax = 300;
     public int GameTime;
     bool isAlive = true;
     // Start is called before the first frame update
     void Start()
     {
-        
+        EstadoJugador.SetActive(false);
     }
 
     // Update is called once per frame
@@ -25,7 +24,7 @@ public class TimeManager : MonoBehaviour
         time = Time.time;
         txt_Timetime.text = Mathf.Floor(time).ToString();
 
-        if (time == timeMax)
+        if (time >= GameTime)
         {
             EstadoDeJuego.text = "Perdiste!";
             EstadoJugador.SetActive(true);
